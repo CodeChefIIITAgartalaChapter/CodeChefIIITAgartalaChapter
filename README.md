@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CodeChefIIITAgartalaChapter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# CodeChef IIIT Agartala Chapter
 
-<!---
-CodeChefIIITAgartalaChapter/CodeChefIIITAgartalaChapter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## This repo belongs to Codechef IIIT Agartala Chapter.
+ For any query contact the maintainers
